@@ -72,17 +72,21 @@ All analysis is performed in **Google Colab**.
 /project/
 │── data/
 │ └── clinvar_llm_sample.csv
+
 │
 │── notebooks/
 │ └── preprocessing_and_analysis.ipynb
+
 │
 │── results/
 │ ├── confusion_matrix_chatgpt.png
 │ ├── confusion_matrix_gemini.png
 │ ├── confusion_matrix_claude.png
 │ └── accuracy_plot.png
+
 │
 │── README.md
+
 │── ai_usage.md
 
 
