@@ -70,6 +70,7 @@ All analysis is performed in **Google Colab**.
 
 ## Repository Structure
 /project/
+
 │── data/
 
 │ └── clinvar_llm_sample.csv
@@ -78,8 +79,8 @@ All analysis is performed in **Google Colab**.
 │── notebooks/
 
 │ └── preprocessing_and_analysis.ipynb
-
 │
+
 │── results/
 
 │ ├── confusion_matrix_chatgpt.png
@@ -89,8 +90,8 @@ All analysis is performed in **Google Colab**.
 │ ├── confusion_matrix_claude.png
 
 │ └── accuracy_plot.png
-
 │
+
 │── README.md
 
 │── ai_usage.md
