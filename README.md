@@ -71,17 +71,23 @@ All analysis is performed in **Google Colab**.
 ## Repository Structure
 /project/
 │── data/
+
 │ └── clinvar_llm_sample.csv
 
 │
 │── notebooks/
+
 │ └── preprocessing_and_analysis.ipynb
 
 │
 │── results/
+
 │ ├── confusion_matrix_chatgpt.png
+
 │ ├── confusion_matrix_gemini.png
+
 │ ├── confusion_matrix_claude.png
+
 │ └── accuracy_plot.png
 
 │
