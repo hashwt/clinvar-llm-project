@@ -1,8 +1,8 @@
 # LLM-Assisted Pathogenicity Classification Using ClinVar
 Team members
-1)Harshil Watts (1002248670)
-2)Mahesh Varma Sangaraju (1002237500)
-3)Amruth Bhargav Katakam (1002237703)
+1) Harshil Watts (1002248670)
+2) Mahesh Varma Sangaraju (1002237500)
+3) Amruth Bhargav Katakam (1002237703)
 
 ## Overview
 This project evaluates whether modern Large Language Models (LLMs)—specifically ChatGPT, Gemini, and Claude—can accurately classify genetic variants as **Pathogenic** or **Benign** based solely on their HGVS notation and gene symbol. ClinVar provides high-confidence expert-curated labels, which are used as the ground truth for benchmarking.
