@@ -25,7 +25,7 @@ gemini.csv
 claude.csv
 
 
-notebooks/
+notebook/
 
 LLM_ClinVar_Benchmark.ipynb
 
@@ -137,7 +137,7 @@ All computations (metrics, plots, merging predictions) run end-to-end using this
 See **ai_usage.md** for full transparency.
 
 Summary:
-- ChatGPT was used for writing support, code refinement, formatting, and presentation assistance.
+- ChatGPT was used for organization, code refinement, formatting.
 - All benchmarking predictions were collected manually.
 - LLMs were **never** provided ClinVar labels.
 - All results and interpretation steps were manually verified.
@@ -146,8 +146,16 @@ Summary:
 
 ## 📚 References
 
-- Landrum MJ, et al. ClinVar: improving access to variant interpretations and supporting evidence. *Nucleic Acids Research*.  
-- NCBI ClinVar Database: https://www.ncbi.nlm.nih.gov/clinvar/
+National Center for Biotechnology Information. ( 2024). ClinVar [Data set]. https://www.ncbi.nlm.nih.gov/clinvar/
+
+Richards, S., et al. (2015). Standards and guidelines for the interpretation of sequence variants. Genetics in Medicine, 17(5), 405–424.
+
+Human Genome Variation Society. (2023). HGVS Nomenclature. https://varnomen.hgvs.org/
+
+OpenAI. (2024). ChatGPT Model Documentation.
+
+Google DeepMind. (2024). Gemini Model Card.
+
 
 ---
 
