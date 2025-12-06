@@ -1,0 +1,201 @@
+Name,GeneSymbol,ClinicalSignificance,Chromosome,Start,ReferenceAllele,AlternateAllele,ReviewStatus,VariationID,SimpleLabel,ChatGPT_pred,Gemini_pred,Claude_pred
+NM_001042492.3(NF1):c.3299C>A (p.Ser1100Ter),NF1,Pathogenic,17,29559192,na,na,"criteria provided, multiple submitters, no conflicts",952266,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000159.4(GCDH):c.775T>C (p.Ser259Pro),GCDH,Pathogenic,19,12896344,na,na,"criteria provided, multiple submitters, no conflicts",1383091,Pathogenic,Benign,Benign,Benign
+NM_000455.5(STK11):c.367C>T (p.Gln123Ter),STK11,Pathogenic,19,1218493,na,na,"criteria provided, multiple submitters, no conflicts",428761,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000260.4(MYO7A):c.3764del (p.Lys1255fs),MYO7A,Pathogenic,11,76901754,na,na,"criteria provided, multiple submitters, no conflicts",43223,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_022552.5(DNMT3A):c.1647C>A (p.Cys549Ter),DNMT3A,Pathogenic,2,25244560,na,na,"criteria provided, multiple submitters, no conflicts",1332907,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_032122.5(DTNBP1):c.307C>T (p.Gln103Ter),DTNBP1,Pathogenic,6,15627391,na,na,"criteria provided, multiple submitters, no conflicts",3432,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001114753.3(ENG):c.523G>T (p.Ala175Ser),ENG,Pathogenic/Likely pathogenic,9,130588789,na,na,"criteria provided, multiple submitters, no conflicts",641795,Pathogenic,Benign,Benign,Benign
+NM_001329943.3(KIAA0586):c.4080_4081del (p.Met1362fs),KIAA0586,Pathogenic/Likely pathogenic,14,58965585,na,na,"criteria provided, multiple submitters, no conflicts",435569,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_138694.4(PKHD1):c.8407T>C (p.Cys2803Arg),PKHD1,Pathogenic/Likely pathogenic,6,51791269,na,na,"criteria provided, multiple submitters, no conflicts",96432,Pathogenic,Benign,Benign,Benign
+NM_000051.4(ATM):c.4609C>T (p.Gln1537Ter),ATM,Pathogenic,11,108163518,na,na,"criteria provided, multiple submitters, no conflicts",453528,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_007294.4(BRCA1):c.2127_2128insGA (p.Thr710fs),BRCA1,Pathogenic,17,43093403,na,na,reviewed by expert panel,266221,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000249.4(MLH1):c.1913_1926dup (p.Ile643delinsAspTyrProPheTer),MLH1,Pathogenic,3,37048530,na,na,reviewed by expert panel,89942,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000492.4(CFTR):c.1692del (p.Asp565fs),CFTR,Pathogenic,7,117590363,na,na,reviewed by expert panel,35831,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000083.3(CLCN1):c.854G>T (p.Gly285Val),CLCN1,Likely pathogenic,7,143330772,na,na,"criteria provided, multiple submitters, no conflicts",2083486,Pathogenic,Benign,Benign,Benign
+NM_002834.5(PTPN11):c.1520C>A (p.Thr507Lys),PTPN11,Pathogenic/Likely pathogenic,12,112489096,na,na,"criteria provided, multiple submitters, no conflicts",265307,Pathogenic,Benign,Benign,Benign
+NM_003002.4(SDHD):c.352del (p.Asp118fs),SDHD,Pathogenic,11,112094839,na,na,"criteria provided, multiple submitters, no conflicts",428938,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001277115.2(DNAH11):c.10691+1G>T,DNAH11,Pathogenic/Likely pathogenic,7,21857958,na,na,"criteria provided, multiple submitters, no conflicts",2897275,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_000153.4(GALC):c.1075_1084del (p.Lys359fs),GALC,Pathogenic,14,88429805,na,na,"criteria provided, multiple submitters, no conflicts",449484,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001875.5(CPS1):c.3337-1G>T,CPS1,Pathogenic/Likely pathogenic,2,211513196,na,na,"criteria provided, multiple submitters, no conflicts",1343551,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_177438.3(DICER1):c.2437-1G>A,DICER1,Pathogenic,14,95108094,na,na,"criteria provided, multiple submitters, no conflicts",841517,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_206933.4(USH2A):c.2310dup (p.Glu771fs),USH2A,Pathogenic,1,216420425,na,na,"criteria provided, multiple submitters, no conflicts",2679451,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_203290.4(POLR1C):c.835C>T (p.Arg279Trp),POLR1C,Pathogenic/Likely pathogenic,6,43520961,na,na,"criteria provided, multiple submitters, no conflicts",30815,Pathogenic,Benign,Benign,Benign
+NM_030632.3(ASXL3):c.4219_4220del (p.Leu1407fs),ASXL3,Pathogenic,18,33744063,na,na,"criteria provided, multiple submitters, no conflicts",524030,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_004369.4(COL6A3):c.7024C>T (p.Arg2342Ter),COL6A3,Pathogenic,2,238256455,na,na,"criteria provided, multiple submitters, no conflicts",285477,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001754.5(RUNX1):c.764_765del (p.His255fs),RUNX1,Pathogenic,21,36206747,na,na,reviewed by expert panel,3725077,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_007294.4(BRCA1):c.3257dup (p.Leu1086fs),BRCA1,Pathogenic,17,43092273,na,na,reviewed by expert panel,54811,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000138.5(FBN1):c.3886T>C (p.Cys1296Arg),FBN1,Likely pathogenic,15,48481733,na,na,"criteria provided, multiple submitters, no conflicts",42344,Pathogenic,Benign,Benign,Pathogenic
+NM_000251.3(MSH2):c.129T>G (p.Tyr43Ter),MSH2,Pathogenic,2,47403320,na,na,reviewed by expert panel,90621,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_007294.4(BRCA1):c.4534del (p.Ser1512fs),BRCA1,Pathogenic/Likely pathogenic,17,41226489,na,na,"criteria provided, multiple submitters, no conflicts",633100,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001267550.2(TTN):c.72848_72849del (p.Lys24283fs),TTN,Pathogenic/Likely pathogenic,2,179438010,na,na,"criteria provided, multiple submitters, no conflicts",202466,Pathogenic,Pathogenic,Benign,Pathogenic
+NM_025243.4(SLC19A3):c.1264A>G (p.Thr422Ala),SLC19A3,Pathogenic,2,228552932,na,na,"criteria provided, multiple submitters, no conflicts",4563,Pathogenic,Benign,Benign,Benign
+NM_017849.4(TMEM127):c.2T>G (p.Met1Arg),TMEM127,Pathogenic/Likely pathogenic,2,96931118,na,na,"criteria provided, multiple submitters, no conflicts",857168,Pathogenic,Benign,Pathogenic,Benign
+NM_000070.3(CAPN3):c.258dup (p.Leu87fs),CAPN3,Pathogenic/Likely pathogenic,15,42652260,na,na,"criteria provided, multiple submitters, no conflicts",284122,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000204.5(CFI):c.1233C>A (p.Tyr411Ter),CFI,"Likely pathogenic/Pathogenic, low penetrance",4,109746418,na,na,"criteria provided, multiple submitters, no conflicts",452535,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_058179.4(PSAT1):c.870-1G>T,PSAT1,Pathogenic/Likely pathogenic,9,78328050,na,na,"criteria provided, multiple submitters, no conflicts",1306418,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_014714.4(IFT140):c.212C>T (p.Pro71Leu),IFT140,Pathogenic/Likely pathogenic,16,1602527,na,na,"criteria provided, multiple submitters, no conflicts",987250,Pathogenic,Benign,Benign,Benign
+NM_000127.3(EXT1):c.854dup (p.His285fs),EXT1,Pathogenic,8,119122431,na,na,"criteria provided, multiple submitters, no conflicts",423050,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_007294.4(BRCA1):c.302-2A>G,BRCA1,Pathogenic/Likely pathogenic,17,43104263,na,na,"criteria provided, multiple submitters, no conflicts",54752,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_004168.4(SDHA):c.403del (p.Asp135fs),SDHA,Pathogenic,5,225620,na,na,"criteria provided, multiple submitters, no conflicts",2139990,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_013275.6(ANKRD11):c.6792dup (p.Ala2265fs),ANKRD11,Pathogenic,16,89279749,na,na,"criteria provided, multiple submitters, no conflicts",521294,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_005629.4(SLC6A8):c.1271G>A (p.Gly424Asp),SLC6A8,Likely pathogenic,X,152959601,na,na,reviewed by expert panel,3066442,Pathogenic,Benign,Benign,Benign
+NM_000251.3(MSH2):c.354T>G (p.Tyr118Ter),MSH2,Pathogenic,2,47408543,na,na,"criteria provided, multiple submitters, no conflicts",548765,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_025114.4(CEP290):c.3181_3182del (p.Met1061fs),CEP290,Pathogenic,12,88487674,na,na,"criteria provided, multiple submitters, no conflicts",236467,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_020366.4(RPGRIP1):c.2021C>A (p.Pro674His),RPGRIP1,Likely pathogenic,14,21324876,na,na,"criteria provided, multiple submitters, no conflicts",3249836,Pathogenic,Benign,Benign,Benign
+NM_000289.6(PFKM):c.626G>A (p.Gly209Asp),PFKM,Likely pathogenic,12,48134264,na,na,"criteria provided, multiple submitters, no conflicts",3375341,Pathogenic,Benign,Benign,Benign
+NM_000038.6(APC):c.6281del (p.Pro2094fs),APC,Pathogenic/Likely pathogenic,5,112841872,na,na,"criteria provided, multiple submitters, no conflicts",234047,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000179.3(MSH6):c.723dup (p.Ser242Ter),MSH6,Pathogenic,2,48025844,na,na,"criteria provided, multiple submitters, no conflicts",578189,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_024675.4(PALB2):c.3004_3008del (p.Glu1002fs),PALB2,Pathogenic/Likely pathogenic,16,23621467,na,na,"criteria provided, multiple submitters, no conflicts",2431267,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000545.8(HNF1A):c.121G>T (p.Glu41Ter),HNF1A,Pathogenic,12,121416692,na,na,reviewed by expert panel,1676712,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_032043.3(BRIP1):c.241del (p.Glu81fs),BRIP1,Pathogenic/Likely pathogenic,17,61857196,na,na,"criteria provided, multiple submitters, no conflicts",632726,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000059.4(BRCA2):c.8063T>C (p.Leu2688Pro),BRCA2,Pathogenic/Likely pathogenic,13,32363265,na,na,"criteria provided, multiple submitters, no conflicts",38137,Pathogenic,Benign,Benign,Pathogenic
+NM_000455.5(STK11):c.717G>A (p.Trp239Ter),STK11,Pathogenic,19,1220699,na,na,"criteria provided, multiple submitters, no conflicts",280378,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000135.4(FANCA):c.367C>T (p.Gln123Ter),FANCA,Pathogenic,16,89810988,na,na,"criteria provided, multiple submitters, no conflicts",1707899,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000159.4(GCDH):c.1015A>G (p.Met339Val),GCDH,Pathogenic,19,12897361,na,na,"criteria provided, multiple submitters, no conflicts",555257,Pathogenic,Benign,Benign,Benign
+NM_001164508.2(NEB):c.23347-2A>G,NEB,Likely pathogenic,2,152364625,na,na,"criteria provided, multiple submitters, no conflicts",2677071,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_007294.4(BRCA1):c.2378dup (p.Ala794fs),BRCA1,Pathogenic,17,43093152,na,na,reviewed by expert panel,220464,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000171.4(GLRA1):c.298del (p.Arg100fs),GLRA1,Pathogenic/Likely pathogenic,5,151859963,na,na,"criteria provided, multiple submitters, no conflicts",16067,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_138694.4(PKHD1):c.3771dup (p.Pro1258fs),PKHD1,Pathogenic/Likely pathogenic,6,52026038,na,na,"criteria provided, multiple submitters, no conflicts",1989859,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000540.3(RYR1):c.6487C>T (p.Arg2163Cys),RYR1,Pathogenic; drug response,19,38494564,na,na,reviewed by expert panel,12973,Pathogenic,Benign,Benign,Pathogenic
+NM_000548.5(TSC2):c.3095G>C (p.Arg1032Pro),TSC2,Pathogenic/Likely pathogenic,16,2079160,na,na,"criteria provided, multiple submitters, no conflicts",49241,Pathogenic,Benign,Benign,Benign
+NM_033109.5(PNPT1):c.419C>T (p.Pro140Leu),PNPT1,Likely pathogenic,2,55683819,na,na,"criteria provided, multiple submitters, no conflicts",1199970,Pathogenic,Benign,Benign,Benign
+NM_058216.3(RAD51C):c.802C>T (p.Gln268Ter),RAD51C,Pathogenic,17,58709955,na,na,"criteria provided, multiple submitters, no conflicts",629167,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_138694.4(PKHD1):c.7109+3A>C,PKHD1,Likely pathogenic,6,51751928,na,na,"criteria provided, multiple submitters, no conflicts",636514,Pathogenic,Benign,Benign,Benign
+NM_001378454.1(ALMS1):c.10822C>T (p.Arg3608Ter),ALMS1,Pathogenic,2,73572699,na,na,"criteria provided, multiple submitters, no conflicts",488677,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000260.4(MYO7A):c.1829_1832dup (p.Ser611_Ser612insTer),MYO7A,Pathogenic/Likely pathogenic,11,77172778,na,na,"criteria provided, multiple submitters, no conflicts",1434715,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_031293.3(PMFBP1):c.2725C>T (p.Arg909Ter),PMFBP1,Pathogenic/Likely pathogenic,16,72122957,na,na,"criteria provided, multiple submitters, no conflicts",560418,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000235.4(LIPA):c.132G>A (p.Trp44Ter),LIPA,Pathogenic/Likely pathogenic,10,91005530,na,na,"criteria provided, multiple submitters, no conflicts",2890181,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000051.4(ATM):c.6177dup (p.Arg2060fs),ATM,Pathogenic,11,108186818,na,na,"criteria provided, multiple submitters, no conflicts",654478,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000322.5(PRPH2):c.904G>T (p.Glu302Ter),PRPH2,Pathogenic/Likely pathogenic,6,42666170,na,na,"criteria provided, multiple submitters, no conflicts",98717,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_032520.5(GNPTG):c.53-2A>G,GNPTG,Likely pathogenic,16,1402101,na,na,"criteria provided, multiple submitters, no conflicts",551781,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_000059.4(BRCA2):c.7974C>G (p.Tyr2658Ter),BRCA2,Pathogenic,13,32936828,na,na,reviewed by expert panel,38129,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_006269.2(RP1):c.2029C>T (p.Arg677Ter),RP1,Pathogenic,8,54625911,na,na,"criteria provided, multiple submitters, no conflicts",5965,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000426.4(LAMA2):c.7666del (p.Thr2556fs),LAMA2,Pathogenic/Likely pathogenic,6,129481356,na,na,"criteria provided, multiple submitters, no conflicts",1324643,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_024675.3(PALB2):c.1724dup (p.Ser576Glufs),PALB2,Pathogenic/Likely pathogenic,16,23630428,na,na,"criteria provided, multiple submitters, no conflicts",425102,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_003742.4(ABCB11):c.483C>A (p.Cys161Ter),ABCB11,Pathogenic,2,168995477,na,na,"criteria provided, multiple submitters, no conflicts",1433215,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001009944.3(PKD1):c.5756del (p.Phe1919fs),PKD1,Pathogenic,16,2109411,na,na,"criteria provided, multiple submitters, no conflicts",2579534,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_130839.5(UBE3A):c.2567_2568del (p.Lys856fs),UBE3A,Pathogenic/Likely pathogenic,15,25339188,na,na,"criteria provided, multiple submitters, no conflicts",155984,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000138.5(FBN1):c.6628T>C (p.Cys2210Arg),FBN1,Pathogenic/Likely pathogenic,15,48432977,na,na,"criteria provided, multiple submitters, no conflicts",200089,Pathogenic,Benign,Benign,Pathogenic
+NM_000110.4(DPYD):c.1475C>T (p.Ser492Leu),DPYD,Pathogenic/Likely pathogenic,1,97549609,na,na,"criteria provided, multiple submitters, no conflicts",298293,Pathogenic,Benign,Benign,Benign
+NM_000088.4(COL1A1):c.2084del (p.Gly695fs),COL1A1,Pathogenic,17,50191831,na,na,"criteria provided, multiple submitters, no conflicts",853946,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000433.4(NCF2):c.417del (p.Ala140fs),NCF2,Pathogenic/Likely pathogenic,1,183574571,na,na,"criteria provided, multiple submitters, no conflicts",2445914,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001972.4(ELANE):c.2T>C (p.Met1Thr),ELANE,Pathogenic/Likely pathogenic,19,852330,na,na,"criteria provided, multiple submitters, no conflicts",988327,Pathogenic,Benign,Pathogenic,Benign
+NM_007294.4(BRCA1):c.2872_2873insA (p.Phe958fs),BRCA1,Pathogenic,17,43092658,na,na,reviewed by expert panel,548231,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000179.3(MSH6):c.2504del (p.Gln835fs),MSH6,Pathogenic,2,47800487,na,na,"criteria provided, multiple submitters, no conflicts",649835,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_020166.5(MCCC1):c.640_641delGG,MCCC1,Pathogenic,3,183071119,na,na,"criteria provided, multiple submitters, no conflicts",344312,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_022455.5(NSD1):c.5356_5360del (p.Lys1786fs),NSD1,Likely pathogenic,5,176696652,na,na,"criteria provided, multiple submitters, no conflicts",3393448,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000152.5(GAA):c.2242G>T (p.Glu748Ter),GAA,Pathogenic,17,78090819,na,na,reviewed by expert panel,370268,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_006859.4(LIAS):c.107dup (p.Glu37fs),LIAS,Pathogenic,4,39462463,na,na,"criteria provided, multiple submitters, no conflicts",2165560,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_006371.5(CRTAP):c.3G>A (p.Met1Ile),CRTAP,Pathogenic/Likely pathogenic,3,33155572,na,na,"criteria provided, multiple submitters, no conflicts",4951,Pathogenic,Benign,Pathogenic,Benign
+NM_000059.4(BRCA2):c.9257-1G>C,BRCA2,Pathogenic,13,32394688,na,na,"criteria provided, multiple submitters, no conflicts",52793,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_001286577.2(C2CD3):c.3911-2A>T,C2CD3,Pathogenic/Likely pathogenic,11,74084972,na,na,"criteria provided, multiple submitters, no conflicts",144040,Pathogenic,Benign,Pathogenic,Pathogenic
+NM_000535.7(PMS2):c.869del (p.Phe290fs),PMS2,Pathogenic,7,5995568,na,na,"criteria provided, multiple submitters, no conflicts",1411804,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_001319074.4(RAX2):c.155C>G (p.Pro52Arg),RAX2,Likely pathogenic,19,3771586,na,na,"criteria provided, multiple submitters, no conflicts",834260,Pathogenic,Benign,Benign,Benign
+NM_025074.7(FRAS1):c.934C>T (p.Gln312Ter),FRAS1,Pathogenic/Likely pathogenic,4,78267385,na,na,"criteria provided, multiple submitters, no conflicts",1343039,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_144997.7(FLCN):c.1379_1380del (p.Leu460fs),FLCN,Pathogenic,17,17118551,na,na,"criteria provided, multiple submitters, no conflicts",418213,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_025114.4(CEP290):c.5791_5794del (p.Glu1931fs),CEP290,Pathogenic/Likely pathogenic,12,88465619,na,na,"criteria provided, multiple submitters, no conflicts",1364154,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000404.4(GLB1):c.1343A>T (p.Asp448Val),GLB1,Pathogenic/Likely pathogenic,3,33059944,na,na,"criteria provided, multiple submitters, no conflicts",344790,Pathogenic,Benign,Benign,Benign
+NM_000051.4(ATM):c.6839del (p.Gln2280fs),ATM,Pathogenic/Likely pathogenic,11,108196816,na,na,"criteria provided, multiple submitters, no conflicts",453644,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_000255.4(MMUT):c.1022dup (p.Asn341fs),MMUT,Pathogenic,6,49421358,na,na,"criteria provided, multiple submitters, no conflicts",553958,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_018451.5(CPAP):c.505_506del (p.Gln169fs),CPAP,Pathogenic/Likely pathogenic,13,24912008,na,na,"criteria provided, multiple submitters, no conflicts",2429273,Pathogenic,Pathogenic,Pathogenic,Pathogenic
+NM_005932.4(MIPEP):c.184C>T (p.Arg62Cys),MIPEP,Likely benign,13,23889137,na,na,"criteria provided, multiple submitters, no conflicts",709907,Benign,Benign,Benign,Benign
+NM_000424.4(KRT5):c.1475-6C>T,KRT5,Benign,12,52909030,na,na,"criteria provided, multiple submitters, no conflicts",309559,Benign,Benign,Benign,Benign
+NM_001040142.2(SCN2A):c.3849+241T>G,SCN2A,Benign,2,165370540,na,na,"criteria provided, multiple submitters, no conflicts",669331,Benign,Benign,Benign,Benign
+NM_001267550.2(TTN):c.59862G>A (p.Glu19954=),TTN,Likely benign,2,179456769,na,na,"criteria provided, multiple submitters, no conflicts",2930747,Benign,Benign,Benign,Benign
+NM_001040616.3(LINS1):c.1395-321G>A,LINS1,Benign,15,100570438,na,na,"criteria provided, multiple submitters, no conflicts",1259847,Benign,Benign,Benign,Benign
+NM_020937.4(FANCM):c.6084T>C (p.Tyr2028=),FANCM,Likely benign,14,45199945,na,na,"criteria provided, multiple submitters, no conflicts",456279,Benign,Benign,Benign,Benign
+NM_000059.4(BRCA2):c.3612T>C (p.Ala1204=),BRCA2,Likely benign,13,32337967,na,na,reviewed by expert panel,215603,Benign,Benign,Benign,Benign
+NM_025114.4(CEP290):c.2991+39A>G,CEP290,Likely benign,12,88496576,na,na,"criteria provided, multiple submitters, no conflicts",261842,Benign,Benign,Benign,Benign
+NM_001743.6(CALM2):c.336C>T (p.Asn112=),CALM2,Likely benign,2,47161808,na,na,"criteria provided, multiple submitters, no conflicts",1136043,Benign,Benign,Benign,Benign
+NM_000179.3(MSH6):c.3054C>T (p.Leu1018=),MSH6,Benign/Likely benign,2,48028176,na,na,"criteria provided, multiple submitters, no conflicts",1155000,Benign,Benign,Benign,Benign
+NM_001365621.2(DLGAP4):c.810G>C (p.Pro270=),DLGAP4,Likely benign,20,35060930,na,na,"criteria provided, multiple submitters, no conflicts",751115,Benign,Benign,Benign,Benign
+NM_004082.5(DCTN1):c.3441G>A (p.Ala1147=),DCTN1,Likely benign,2,74363082,na,na,"criteria provided, multiple submitters, no conflicts",1546004,Benign,Benign,Benign,Benign
+NM_000507.4(FBP1):c.427-133G>C,FBP1,Benign,9,97372476,na,na,"criteria provided, multiple submitters, no conflicts",1296480,Benign,Benign,Benign,Benign
+NM_018263.6(ASXL2):c.553A>G (p.Ser185Gly),ASXL2,Benign,2,25768820,na,na,"criteria provided, multiple submitters, no conflicts",791417,Benign,Benign,Benign,Benign
+NM_001378743.1(CYLD):c.87C>T (p.Ser29=),CYLD,Benign/Likely benign,16,50749785,na,na,"criteria provided, multiple submitters, no conflicts",695378,Benign,Benign,Benign,Benign
+NM_001375883.1(GPR161):c.660C>G (p.Arg220=),GPR161,Likely benign,1,168066185,na,na,"criteria provided, multiple submitters, no conflicts",2639532,Benign,Benign,Benign,Benign
+NM_001323289.2(CDKL5):c.1527G>A (p.Ala509=),CDKL5,Benign/Likely benign,X,18604451,na,na,"criteria provided, multiple submitters, no conflicts",509971,Benign,Benign,Benign,Benign
+NM_020937.4(FANCM):c.4318-27G>A,FANCM,Benign,14,45181610,na,na,"criteria provided, multiple submitters, no conflicts",1258902,Benign,Benign,Benign,Benign
+NM_002180.3(IGHMBP2):c.2782G>A (p.Glu928Lys),IGHMBP2,Benign,11,68705820,na,na,"criteria provided, multiple submitters, no conflicts",258573,Benign,Benign,Benign,Benign
+NM_001042492.3(NF1):c.2224G>T (p.Ala742Ser),NF1,Likely benign,17,29553675,na,na,"criteria provided, multiple submitters, no conflicts",141637,Benign,Benign,Benign,Benign
+NM_017775.4(TTC19):c.424-72G>A,TTC19,Likely benign,17,15906035,na,na,"criteria provided, multiple submitters, no conflicts",674450,Benign,Benign,Benign,Benign
+NM_020822.3(KCNT1):c.254+20T>C,KCNT1,Benign,9,138606586,na,na,"criteria provided, multiple submitters, no conflicts",286134,Benign,Benign,Benign,Benign
+NM_177438.3(DICER1):c.2001T>A (p.Leu667=),DICER1,Likely benign,14,95579468,na,na,"criteria provided, multiple submitters, no conflicts",1115999,Benign,Benign,Benign,Benign
+NM_001364905.1(LRBA):c.7694-292T>C,LRBA,Benign,4,150310676,na,na,"criteria provided, multiple submitters, no conflicts",1260145,Benign,Benign,Benign,Benign
+NM_000257.4(MYH7):c.2844A>G (p.Ser948=),MYH7,Likely benign,14,23423985,na,na,"criteria provided, multiple submitters, no conflicts",1909944,Benign,Benign,Benign,Benign
+NM_007194.4(CHEK2):c.1543-12C>G,CHEK2,Likely benign,22,29083986,na,na,"criteria provided, multiple submitters, no conflicts",491606,Benign,Benign,Benign,Benign
+NM_015692.5(CPAMD8):c.4926A>T (p.Pro1642=),CPAMD8,Benign/Likely benign,19,16897917,na,na,"criteria provided, multiple submitters, no conflicts",2046459,Benign,Benign,Benign,Benign
+NM_017752.3(TBC1D8B):c.2920C>T (p.Leu974Phe),TBC1D8B,Benign/Likely benign,X,106870766,na,na,"criteria provided, multiple submitters, no conflicts",1254057,Benign,Benign,Benign,Benign
+NM_001457.4(FLNB):c.669G>A (p.Pro223=),FLNB,Benign/Likely benign,3,58081658,na,na,"criteria provided, multiple submitters, no conflicts",258118,Benign,Benign,Benign,Benign
+NM_001083614.2(EARS2):c.63C>T (p.Pro21=),EARS2,Likely benign,16,23557281,na,na,"criteria provided, multiple submitters, no conflicts",382026,Benign,Benign,Benign,Benign
+NM_012203.2(GRHPR):c.494-232C>T,GRHPR,Benign,9,37429500,na,na,"criteria provided, multiple submitters, no conflicts",1279514,Benign,Benign,Benign,Benign
+NM_000138.5(FBN1):c.7521C>T (p.Phe2507=),FBN1,Likely benign,15,48422001,na,na,"criteria provided, multiple submitters, no conflicts",495647,Benign,Benign,Benign,Benign
+NM_173354.5(SIK1):c.690G>A (p.Pro230=),SIK1,Likely benign,21,44840948,na,na,"criteria provided, multiple submitters, no conflicts",1096342,Benign,Benign,Benign,Benign
+NM_001684.5(ATP2B4):c.1981G>A (p.Glu661Lys),ATP2B4,Benign,1,203711058,na,na,"criteria provided, multiple submitters, no conflicts",706579,Benign,Benign,Benign,Benign
+NM_001197104.2(KMT2A):c.6450A>G (p.Thr2150=),KMT2A,Benign,11,118372517,na,na,"criteria provided, multiple submitters, no conflicts",1282990,Benign,Benign,Benign,Benign
+NM_016333.4(SRRM2):c.7647G>A (p.Ser2549=),SRRM2,Benign,16,2818176,na,na,"criteria provided, multiple submitters, no conflicts",717380,Benign,Benign,Benign,Benign
+NM_021871.4(FGA):c.181-96T>A,FGA,Benign,4,154589072,na,na,"criteria provided, multiple submitters, no conflicts",1266157,Benign,Benign,Benign,Benign
+NM_172240.3(POC1B):c.811-67A>G,POC1B,Benign,12,89861529,na,na,"criteria provided, multiple submitters, no conflicts",1238982,Benign,Benign,Benign,Benign
+NM_003036.4(SKI):c.948G>A (p.Lys316=),SKI,Benign/Likely benign,1,2161153,na,na,"criteria provided, multiple submitters, no conflicts",213664,Benign,Benign,Benign,Benign
+NM_004655.4(AXIN2):c.1239G>A (p.Ser413=),AXIN2,Benign/Likely benign,17,63533915,na,na,"criteria provided, multiple submitters, no conflicts",1116876,Benign,Benign,Benign,Benign
+NM_000213.5(ITGB4):c.3317-46T>C,ITGB4,Benign,17,73746146,na,na,"criteria provided, multiple submitters, no conflicts",1291164,Benign,Benign,Benign,Benign
+NM_000251.3(MSH2):c.2286A>G (p.Leu762=),MSH2,Benign/Likely benign,2,47478347,na,na,"criteria provided, multiple submitters, no conflicts",821030,Benign,Benign,Benign,Benign
+NM_018406.7(MUC4):c.15844G>A (p.Gly5282Arg),MUC4,Benign,3,195477787,na,na,"criteria provided, multiple submitters, no conflicts",708776,Benign,Benign,Benign,Benign
+NM_000093.5(COL5A1):c.3081G>A (p.Gly1027=),COL5A1,Likely benign,9,137694808,na,na,"criteria provided, multiple submitters, no conflicts",3495546,Benign,Benign,Benign,Benign
+NM_019616.4(F7):c.365-57G>A,F7,Benign,13,113769917,na,na,"criteria provided, multiple submitters, no conflicts",1249401,Benign,Benign,Benign,Benign
+NM_139076.3(ABRAXAS1):c.630G>A (p.Lys210=),ABRAXAS1,Likely benign,4,84388658,na,na,"criteria provided, multiple submitters, no conflicts",2732825,Benign,Benign,Benign,Benign
+NM_000057.4(BLM):c.3660A>G (p.Gly1220=),BLM,Likely benign,15,90804268,na,na,"criteria provided, multiple submitters, no conflicts",1081098,Benign,Benign,Benign,Benign
+NM_001122681.2(SH3BP2):c.587-38C>G,SH3BP2,Benign,4,2831182,na,na,"criteria provided, multiple submitters, no conflicts",1294941,Benign,Benign,Benign,Benign
+NM_002180.3(IGHMBP2):c.*524T>C,IGHMBP2,Likely benign,11,68940255,na,na,"criteria provided, multiple submitters, no conflicts",883477,Benign,Benign,Benign,Benign
+NM_004380.3(CREBBP):c.6621A>G (p.Gln2207=),CREBBP,Benign,16,3778427,na,na,"criteria provided, multiple submitters, no conflicts",95063,Benign,Benign,Benign,Benign
+NM_145239.3(PRRT2):c.591C>T (p.Ala197=),PRRT2,Likely benign,16,29824966,na,na,"criteria provided, multiple submitters, no conflicts",1653562,Benign,Benign,Benign,Benign
+NM_004260.4(RECQL4):c.2636C>A (p.Pro879His),RECQL4,Benign,8,144512966,na,na,"criteria provided, multiple submitters, no conflicts",94890,Benign,Benign,Benign,Benign
+NM_000264.5(PTCH1):c.4080C>A (p.Ser1360=),PTCH1,Likely benign,9,98209458,na,na,"criteria provided, multiple submitters, no conflicts",699824,Benign,Benign,Benign,Benign
+NM_024598.4(USB1):c.729G>A (p.Leu243=),USB1,Likely benign,16,58020176,na,na,"criteria provided, multiple submitters, no conflicts",779166,Benign,Benign,Benign,Benign
+NM_005228.5(EGFR):c.63G>T (p.Ala21=),EGFR,Likely benign,7,55087033,na,na,"criteria provided, multiple submitters, no conflicts",1542532,Benign,Benign,Benign,Benign
+NM_016172.3(UBAC1):c.145C>T (p.His49Tyr),UBAC1,Benign/Likely benign,9,135955409,na,na,"criteria provided, multiple submitters, no conflicts",790404,Benign,Benign,Benign,Benign
+NM_001005361.3(DNM2):c.162-7C>A,DNM2,Benign,19,10870407,na,na,"criteria provided, multiple submitters, no conflicts",195103,Benign,Benign,Benign,Benign
+NM_007294.4(BRCA1):c.3348A>G (p.Val1116=),BRCA1,Likely benign,17,43092183,na,na,reviewed by expert panel,427258,Benign,Benign,Benign,Benign
+NM_007294.4(BRCA1):c.5153-6C>T,BRCA1,Likely benign,17,43063379,na,na,"criteria provided, multiple submitters, no conflicts",265051,Benign,Benign,Benign,Benign
+NM_000059.4(BRCA2):c.631+183T>A,BRCA2,Benign,13,32326796,na,na,reviewed by expert panel,209652,Benign,Benign,Benign,Benign
+NM_001844.5(COL2A1):c.2410-79C>A,COL2A1,Benign,12,47981475,na,na,"criteria provided, multiple submitters, no conflicts",1224265,Benign,Benign,Benign,Benign
+NM_000527.5(LDLR):c.810C>T (p.Cys270=),LDLR,Likely benign,19,11217356,na,na,"criteria provided, multiple submitters, no conflicts",251466,Benign,Benign,Benign,Benign
+NM_000901.5(NR3C2):c.449G>A (p.Arg150His),NR3C2,Benign,4,148436412,na,na,"criteria provided, multiple submitters, no conflicts",347737,Benign,Benign,Benign,Benign
+NM_003184.4(TAF2):c.732G>A (p.Ala244=),TAF2,Likely benign,8,120814094,na,na,"criteria provided, multiple submitters, no conflicts",1337254,Benign,Benign,Benign,Benign
+NM_023070.3(ZFP69B):c.896G>A (p.Arg299Lys),ZFP69B,Likely benign,1,40462880,na,na,"criteria provided, multiple submitters, no conflicts",773395,Benign,Benign,Benign,Benign
+NM_005629.4(SLC6A8):c.282C>T (p.Tyr94=),SLC6A8,Benign/Likely benign,X,153690394,na,na,"criteria provided, multiple submitters, no conflicts",389999,Benign,Benign,Benign,Benign
+NM_004237.4(TRIP13):c.608+39T>G,TRIP13,Benign,5,904374,na,na,"criteria provided, multiple submitters, no conflicts",1241500,Benign,Benign,Benign,Benign
+NM_000291.4(PGK1):c.909G>C (p.Val303=),PGK1,Benign/Likely benign,X,78123347,na,na,"criteria provided, multiple submitters, no conflicts",793410,Benign,Benign,Benign,Benign
+NM_003073.5(SMARCB1):c.867A>C (p.Ser289=),SMARCB1,Likely benign,22,23825296,na,na,"criteria provided, multiple submitters, no conflicts",1764258,Benign,Benign,Benign,Benign
+NM_000249.4(MLH1):c.1350T>C (p.Asp450=),MLH1,Benign/Likely benign,3,37025948,na,na,"criteria provided, multiple submitters, no conflicts",455384,Benign,Benign,Benign,Benign
+NM_003162.4(STRN):c.*5A>G,STRN,Benign,2,36849451,na,na,"criteria provided, multiple submitters, no conflicts",1275078,Benign,Benign,Benign,Benign
+NM_001943.5(DSG2):c.681G>A (p.Leu227=),DSG2,Likely benign,18,31522240,na,na,"criteria provided, multiple submitters, no conflicts",3505419,Benign,Benign,Benign,Benign
+NM_014714.4(IFT140):c.2578-157G>A,IFT140,Benign,16,1576235,na,na,"criteria provided, multiple submitters, no conflicts",1239737,Benign,Benign,Benign,Benign
+NM_020223.4(FAM20C):c.984C>T (p.Pro328=),FAM20C,Likely benign,7,288308,na,na,"criteria provided, multiple submitters, no conflicts",1459309,Benign,Benign,Benign,Benign
+NM_024675.4(PALB2):c.1647C>T (p.His549=),PALB2,Benign/Likely benign,16,23634899,na,na,"criteria provided, multiple submitters, no conflicts",830143,Benign,Benign,Benign,Benign
+NM_007294.4(BRCA1):c.3270A>G (p.Gln1090=),BRCA1,Likely benign,17,43092261,na,na,reviewed by expert panel,187419,Benign,Benign,Benign,Benign
+NM_001023570.4(IQCB1):c.1281G>A (p.Ala427=),IQCB1,Likely benign,3,121781872,na,na,"criteria provided, multiple submitters, no conflicts",1130403,Benign,Benign,Benign,Benign
+NM_138420.4(AHNAK2):c.9085G>C (p.Glu3029Gln),AHNAK2,Benign,14,105412703,na,na,"criteria provided, multiple submitters, no conflicts",402350,Benign,Benign,Benign,Benign
+NM_201548.5(CERKL):c.1134-45G>A,CERKL,Benign,2,181547892,na,na,"criteria provided, multiple submitters, no conflicts",1289563,Benign,Benign,Benign,Benign
+NM_001061.7(TBXAS1):c.1349C>A (p.Thr450Asn),TBXAS1,Benign/Likely benign,7,139715645,na,na,"criteria provided, multiple submitters, no conflicts",287493,Benign,Benign,Benign,Benign
+NM_005677.4(COLQ):c.718-1268A>G,COLQ,Benign,3,15509212,na,na,"criteria provided, multiple submitters, no conflicts",1281081,Benign,Benign,Benign,Benign
+NM_001458.5(FLNC):c.1923C>T (p.His641=),FLNC,Benign/Likely benign,7,128481333,na,na,"criteria provided, multiple submitters, no conflicts",471990,Benign,Benign,Benign,Benign
+NM_005458.8(GABBR2):c.1921A>G (p.Ile641Val),GABBR2,Benign/Likely benign,9,101073460,na,na,"criteria provided, multiple submitters, no conflicts",935362,Benign,Benign,Benign,Benign
+NM_000116.5(TAFAZZIN):c.*470=,TAFAZZIN,Benign,X,154421474,na,na,"criteria provided, multiple submitters, no conflicts",368091,Benign,Benign,Benign,Benign
+NM_152424.4(AMER1):c.2825G>A (p.Arg942Gln),AMER1,Benign/Likely benign,X,64190462,na,na,"criteria provided, multiple submitters, no conflicts",2516054,Benign,Benign,Benign,Benign
+NM_004655.4(AXIN2):c.309A>G (p.Lys103=),AXIN2,Benign/Likely benign,17,63554430,na,na,"criteria provided, multiple submitters, no conflicts",1727551,Benign,Benign,Benign,Benign
+NM_003680.4(YARS1):c.1374G>A (p.Pro458=),YARS1,Benign/Likely benign,1,33245085,na,na,"criteria provided, multiple submitters, no conflicts",297149,Benign,Benign,Benign,Benign
+NM_206933.4(USH2A):c.1758C>T (p.Tyr586=),USH2A,Likely benign,1,216292257,na,na,"criteria provided, multiple submitters, no conflicts",1080929,Benign,Benign,Benign,Benign
+NM_022124.6(CDH23):c.552C>T (p.Arg184=),CDH23,Likely benign,10,73326621,na,na,"criteria provided, multiple submitters, no conflicts",930040,Benign,Benign,Benign,Benign
+NM_001987.5(ETV6):c.612C>T (p.Pro204=),ETV6,Likely benign,12,11869572,na,na,"criteria provided, multiple submitters, no conflicts",3510592,Benign,Benign,Benign,Benign
+NM_005560.6(LAMA5):c.6649-13T>C,LAMA5,Benign,20,60895738,na,na,"criteria provided, multiple submitters, no conflicts",1290085,Benign,Benign,Benign,Benign
+NM_001034853.2(RPGR):c.2976_2990del (p.989EGEEE[1]),RPGR,Benign,X,38145262,na,na,reviewed by expert panel,1695290,Benign,Benign,Pathogenic,Pathogenic
+NM_001382347.1(MYO5A):c.*32T>C,MYO5A,Benign,15,52605861,na,na,"criteria provided, multiple submitters, no conflicts",1280102,Benign,Benign,Benign,Benign
+NM_000038.6(APC):c.5115C>G (p.Thr1705=),APC,Likely benign,5,112176406,na,na,"criteria provided, multiple submitters, no conflicts",220587,Benign,Benign,Benign,Benign
+NM_000249.4(MLH1):c.1170A>G (p.Glu390=),MLH1,Benign/Likely benign,3,37025768,na,na,"criteria provided, multiple submitters, no conflicts",926953,Benign,Benign,Benign,Benign
+NM_002334.4(LRP4):c.4905C>T (p.Phe1635=),LRP4,Benign,11,46890197,na,na,"criteria provided, multiple submitters, no conflicts",304853,Benign,Benign,Benign,Benign
+NC_000020.11:g.64049808C>T,SOX18,Benign,20,62681161,na,na,"criteria provided, multiple submitters, no conflicts",1225190,Benign,Benign,Benign,Benign
+NM_001369268.1(ACAN):c.7524C>T (p.Ser2508=),ACAN,Benign/Likely benign,15,88873918,na,na,"criteria provided, multiple submitters, no conflicts",283854,Benign,Benign,Benign,Benign
+NM_002382.5(MAX):c.93G>A (p.Leu31=),MAX,Likely benign,14,65093786,na,na,"criteria provided, multiple submitters, no conflicts",2994240,Benign,Benign,Benign,Benign
+NM_001283009.2(RTEL1):c.3882C>T (p.Val1294=),RTEL1,Likely benign,20,62327190,na,na,"criteria provided, multiple submitters, no conflicts",2930241,Benign,Benign,Benign,Benign
